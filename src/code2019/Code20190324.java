@@ -1,6 +1,9 @@
 package code2019;
 
-public class code20190324 {
+/*
+合并两个有序数组到一个新的数组，新数据仍旧有序
+ */
+public class Code20190324 {
 
     public static void main(String[] args) {
         int a[] = {3,5,6,76,807};
